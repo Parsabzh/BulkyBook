@@ -1,4 +1,6 @@
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.Models\bin\Debug\netcoreapp3.1\BulkyBook.Models.deps.json
+D:\Learning\BulkyBook\BulkyBook\BulkyBook.Models\bin\Debug\netcoreapp3.1\BulkyBook.Models.runtimeconfig.json
+D:\Learning\BulkyBook\BulkyBook\BulkyBook.Models\bin\Debug\netcoreapp3.1\BulkyBook.Models.runtimeconfig.dev.json
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.Models\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.Models\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.csprojAssemblyReference.cache
@@ -6,5 +8,3 @@ D:\Learning\BulkyBook\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBo
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.AssemblyInfo.cs
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.dll
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.pdb
-D:\Learning\BulkyBook\BulkyBook\BulkyBook.Models\bin\Debug\netcoreapp3.1\BulkyBook.Models.runtimeconfig.json
-D:\Learning\BulkyBook\BulkyBook\BulkyBook.Models\bin\Debug\netcoreapp3.1\BulkyBook.Models.runtimeconfig.dev.json

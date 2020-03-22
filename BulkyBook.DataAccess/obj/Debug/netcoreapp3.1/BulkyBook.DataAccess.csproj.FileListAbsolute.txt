@@ -1,4 +1,6 @@
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.deps.json
+D:\Learning\BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.runtimeconfig.json
+D:\Learning\BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.runtimeconfig.dev.json
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
@@ -11,5 +13,3 @@ D:\Learning\BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\Bul
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CopyComplete
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
 D:\Learning\BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
-D:\Learning\BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.runtimeconfig.json
-D:\Learning\BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.runtimeconfig.dev.json
